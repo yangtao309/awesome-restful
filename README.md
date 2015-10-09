@@ -7,11 +7,16 @@
 *	[restful objects](https://github.com/restfulobjects/restfulobjects-spec)
 *	[RESTful API 设计最佳实践](http://www.oschina.net/translate/best-practices-for-a-pragmatic-restful-api)
 
+### 入门系列
+*	[Creating an efficient REST API with HTTP](http://mark-kirby.co.uk/2013/creating-a-true-rest-api/)
+
 ### restful api authentication
 
 *	[Stateless Authentication with api rest](http://www.kaleidos.net/blog/295/stateless-authentication-with-api-rest/ "Title") 
 *	[How to do authentication with a REST API right?](http://stackoverflow.com/questions/15051712/how-to-do-authentication-with-a-rest-api-right-browser-native-clients "Title") 
 *	[Do sessions really violate RESTfulness?](http://stackoverflow.com/questions/6068113/do-sessions-really-violate-restfulness)
+*	[RESTful Authentication](http://stackoverflow.com/questions/319530/restful-authentication?rq=1)
+
 
 
 
