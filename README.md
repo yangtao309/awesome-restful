@@ -1,4 +1,4 @@
-# awesome-restful
+# awesome-RESTful
 本系列为整理出在做restful架构中需要考虑的问题，以及前辈们的一些讨论文章，包含个人的部分见解。
 
 ### 架构设计
@@ -9,8 +9,9 @@
 
 ### 入门系列
 *	[Creating an efficient REST API with HTTP](http://mark-kirby.co.uk/2013/creating-a-true-rest-api/)
+*	[RESTful Best Practices](http://segmentfault.com/a/1190000002949234)
 
-### restful api authentication
+### RESTful api authentication
 
 *	[Stateless Authentication with api rest](http://www.kaleidos.net/blog/295/stateless-authentication-with-api-rest/ "Title") 
 *	[How to do authentication with a REST API right?](http://stackoverflow.com/questions/15051712/how-to-do-authentication-with-a-rest-api-right-browser-native-clients "Title") 
