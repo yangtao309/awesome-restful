@@ -1,7 +1,7 @@
 # awesome-RESTful
 本系列为整理出在做restful架构中需要考虑的问题，以及前辈们的一些讨论文章，包含个人的部分见解。
 
-一个更加完成的收录 [RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计](https://github.com/aisuhua/restful-api-design-references)
+一个更加全面的收录 [RESTful API 设计参考文献列表，可帮助你更加彻底的了解REST风格的接口设计](https://github.com/aisuhua/restful-api-design-references)
 
 ### 架构设计
 *	[Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
